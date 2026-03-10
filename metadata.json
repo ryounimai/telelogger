@@ -1,0 +1,5 @@
+{
+  "name": "Telegram Bot Logger",
+  "description": "A live debugger and logger for Telegram Bots. Monitor updates and reply in real-time.",
+  "requestFramePermissions": []
+}
